@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class java_예산 {
 }
-class Solution_buget {
+class Solution_budget {
     public int solution(int[] d, int budget) {
 
         int answer = 0;
