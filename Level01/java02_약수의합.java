@@ -1,9 +1,9 @@
 package Programmers.Level01;
 import java.util.ArrayList;
 
-public class java_약수더하기 {
+public class java_약수의합 {
 }
-class Solution {
+class Solution_02 {
     public int solution(int n) {
         int answer = 0;
 
