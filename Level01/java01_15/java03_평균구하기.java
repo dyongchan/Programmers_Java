@@ -1,4 +1,4 @@
-package Programmers.Level01;
+package Programmers.Level01.java01_15;
 
 public class java03_평균구하기 {
 }

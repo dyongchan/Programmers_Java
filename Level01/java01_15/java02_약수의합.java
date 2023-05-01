@@ -1,7 +1,7 @@
-package Programmers.Level01;
+package Programmers.Level01.java01_15;
 import java.util.ArrayList;
 
-public class java_약수의합 {
+public class java02_약수의합 {
 }
 class Solution_02 {
     public int solution(int n) {

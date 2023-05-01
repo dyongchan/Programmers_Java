@@ -1,6 +1,6 @@
-package Programmers.Level01;
+package Programmers.Level01.java01_15;
 
-public class java_짝수와홀수 {
+public class java01_짝수와홀수 {
 }
 
 class Solution_01 {
